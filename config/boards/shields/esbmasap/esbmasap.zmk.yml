@@ -1,0 +1,8 @@
+file_format: "1"
+id: esbmasap
+name: esbmasap
+type: shield
+url: https://github.com/pjvds/nrf52-zmk-spike/
+requires: [pro_micro]
+features:
+  - keys

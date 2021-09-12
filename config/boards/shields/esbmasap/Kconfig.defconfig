@@ -1,0 +1,5 @@
+if SHIELD_ESBMASAP
+
+config ZMK_KEYBOARD_NAME
+    default "esbmasap"
+endif
